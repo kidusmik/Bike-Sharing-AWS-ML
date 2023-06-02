@@ -33,13 +33,13 @@ DONE: I would spend more time on tuning the hyperparameters to improve my model.
 
 DONE: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](/model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 DONE: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](/model_test_score.png)
 
 ## Summary
 DONE: The model shows improvment when there are more features especially features that can be simplified to smaller units such as year, month, day and hour. Hyperparameters tuning also improves the model since there is more control on the parameters such as which evaluation metric to use. Overall the best model was the hpo model and the top ranking model trained is WeightedEnsemble_L3 in all 3 models.
